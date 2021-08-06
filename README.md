@@ -1,3 +1,7 @@
+# Memo
+## VS2019
+6MT8J-N3TWR-JPCGV-W34BY-CWH3Y
+
 # discordpy-startup
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
